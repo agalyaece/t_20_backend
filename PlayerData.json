@@ -1,0 +1,1542 @@
+[
+    {
+        "country": "Afghanistan",
+        "player_name": "Rahmanullah Gurbaz",
+        "role": "Wicketkeeper Batter"
+    },
+    {
+        "country": "Afghanistan",
+        "player_name": "Hazratullah Zazai",
+        "role": "Opening Batter"
+    },
+    {
+        "country": "Afghanistan",
+        "player_name": "Ibrahim Zadran",
+        "role": "Opening Batter"
+    },
+    {
+        "country": "Afghanistan",
+        "player_name": "Mohammad Ishaq",
+        "role": "Wicketkeeper Batter"
+    },
+    {
+        "country": "Afghanistan",
+        "player_name": "Najibullah Zadran",
+        "role": "Middle order Batter"
+    },
+    {
+        "country": "Afghanistan",
+        "player_name": "Rashid Khan",
+        "role": "Bowling Allrounder"
+    },
+    {
+        "country": "Afghanistan",
+        "player_name": "Azmatullah Omarzai",
+        "role": "Allrounder"
+    },
+    {
+        "country": "Afghanistan",
+        "player_name": "Gulbadin Naib",
+        "role": "Batting Allrounder"
+    },
+    {
+        "country": "Afghanistan",
+        "player_name": "Karim Janat",
+        "role": "Bowling Allrounder"
+    },
+    {
+        "country": "Afghanistan",
+        "player_name": "Mohammad Nabi",
+        "role": "Allrounder"
+    },
+    {
+        "country": "Afghanistan",
+        "player_name": "Nangeyalia Kharote",
+        "role": "Allrounder"
+    },
+    {
+        "country": "Afghanistan",
+        "player_name": "Fareed Ahmad",
+        "role": "Bowler"
+    },
+    {
+        "country": "Afghanistan",
+        "player_name": "Fazalhaq Farooqi",
+        "role": "Bowler"
+    },
+    {
+        "country": "Afghanistan",
+        "player_name": "Naveen-ul-Haq",
+        "role": "Bowler"
+    },
+    {
+        "country": "Afghanistan",
+        "player_name": "Noor Ahmad",
+        "role": "Bowler"
+    },
+    {
+        "country": "Afghanistan",
+        "player_name": "Mujeeb Ur Rahman",
+        "role": "Bowler"
+    },
+    {
+        "country": "Australia",
+        "player_name": "Tim David",
+        "role": "Middle order Batter"
+    },
+    {
+        "country": "Australia",
+        "player_name": "Travis Head",
+        "role": "Top order Batter"
+    },
+    {
+        "country": "Australia",
+        "player_name": "Josh Inglis",
+        "role": "Wicketkeeper Batter"
+    },
+    {
+        "country": "Australia",
+        "player_name": "Matthew Wade",
+        "role": "Wicketkeeper Batter"
+    },
+    {
+        "country": "Australia",
+        "player_name": "David Warner",
+        "role": "Opening Batter"
+    },
+    {
+        "country": "Australia",
+        "player_name": "Mitchell Marsh",
+        "role": "Allrounder"
+    },
+    {
+        "country": "Australia",
+        "player_name": "Cameron Green",
+        "role": "Batting Allrounder"
+    },
+    {
+        "country": "Australia",
+        "player_name": "Glenn Maxwell",
+        "role": "Batting Allrounder"
+    },
+    {
+        "country": "Australia",
+        "player_name": "Marcus Stoinis",
+        "role": "Batting Allrounder"
+    },
+    {
+        "country": "Australia",
+        "player_name": "Ashton Agar",
+        "role": "Bowler"
+    },
+    {
+        "country": "Australia",
+        "player_name": "Pat Cummins",
+        "role": "Bowler"
+    },
+    {
+        "country": "Australia",
+        "player_name": "Nathan Ellis",
+        "role": "Bowler"
+    },
+    {
+        "country": "Australia",
+        "player_name": "Josh Hazlewood",
+        "role": "Bowler"
+    },
+    {
+        "country": "Australia",
+        "player_name": "Mitchell Starc",
+        "role": "Bowler"
+    },
+    {
+        "country": "Australia",
+        "player_name": "Adam Zampa",
+        "role": "Bowler"
+    },
+    {
+        "country": "Bangladesh",
+        "player_name": "Najmul Hossain Shanto",
+        "role": "Top order Batter"
+    },
+    {
+        "country": "Bangladesh",
+        "player_name": "Jaker Ali",
+        "role": "Batter"
+    },
+    {
+        "country": "Bangladesh",
+        "player_name": "Litton Das",
+        "role": "Wicketkeeper Batter"
+    },
+    {
+        "country": "Bangladesh",
+        "player_name": "Tanzid Hasan",
+        "role": "Opening Batter"
+    },
+    {
+        "country": "Bangladesh",
+        "player_name": "Towhid Hridoy",
+        "role": "Top order Batter"
+    },
+    {
+        "country": "Bangladesh",
+        "player_name": "Mahedi Hasan",
+        "role": "Allrounder"
+    },
+    {
+        "country": "Bangladesh",
+        "player_name": "Mahmudullah",
+        "role": "Allrounder"
+    },
+    {
+        "country": "Bangladesh",
+        "player_name": "Shakib Al Hasan",
+        "role": "Allrounder"
+    },
+    {
+        "country": "Bangladesh",
+        "player_name": "Soumya Sarkar",
+        "role": "Batting Allrounder"
+    },
+    {
+        "country": "Bangladesh",
+        "player_name": "Taskin Ahmed",
+        "role": "Bowler"
+    },
+    {
+        "country": "Bangladesh",
+        "player_name": "Mustafizur Rahman",
+        "role": "Bowler"
+    },
+    {
+        "country": "Bangladesh",
+        "player_name": "Rishad Hossain",
+        "role": "Bowler"
+    },
+    {
+        "country": "Bangladesh",
+        "player_name": "Shoriful Islam",
+        "role": "Bowler"
+    },
+    {
+        "country": "Bangladesh",
+        "player_name": "Tanvir Islam",
+        "role": "Bowler"
+    },
+    {
+        "country": "Bangladesh",
+        "player_name": "Tanzim Hasan Sakib",
+        "role": "Bowler"
+    },
+    {
+        "country": "Canada",
+        "player_name": "Navneet Dhaliwal",
+        "role": "Middle order Batter"
+    },
+    {
+        "country": "Canada",
+        "player_name": "Aaron Johnson",
+        "role": "Batter"
+    },
+    {
+        "country": "Canada",
+        "player_name": "Shreyas Movva",
+        "role": "Wicketkeeper Batter"
+    },
+    {
+        "country": "Canada",
+        "player_name": "Ravinderpal Singh",
+        "role": "Batter"
+    },
+    {
+        "country": "Canada",
+        "player_name": "Saad Bin Zafar",
+        "role": "Allrounder"
+    },
+    {
+        "country": "Canada",
+        "player_name": "Dilpreet Bajwa",
+        "role": "Allrounder"
+    },
+    {
+        "country": "Canada",
+        "player_name": "Junaid Siddiqui",
+        "role": "Allrounder"
+    },
+    {
+        "country": "Canada",
+        "player_name": "Nicholas Kirton",
+        "role": "Batting Allrounder"
+    },
+    {
+        "country": "Canada",
+        "player_name": "Pargat Singh",
+        "role": "Allrounder"
+    },
+    {
+        "country": "Canada",
+        "player_name": "Rayyan Pathan",
+        "role": "Batting Allrounder"
+    },
+    {
+        "country": "Canada",
+        "player_name": "Harsh Thaker",
+        "role": "Allrounder"
+    },
+    {
+        "country": "Canada",
+        "player_name": "Nikhil Dutta",
+        "role": "Bowler"
+    },
+    {
+        "country": "Canada",
+        "player_name": "Jeremy Gordon",
+        "role": "Bowler"
+    },
+    {
+        "country": "Canada",
+        "player_name": "Dilon Heyliger",
+        "role": "Bowler"
+    },
+    {
+        "country": "Canada",
+        "player_name": "Rishiv Joshi",
+        "role": "Bowler"
+    },
+    {
+        "country": "Canada",
+        "player_name": "Kaleem Sana",
+        "role": "Bowler"
+    },
+    {
+        "country": "England",
+        "player_name": "Jos Buttler",
+        "role": "Wicketkeeper Batter"
+    },
+    {
+        "country": "England",
+        "player_name": "Jonny Bairstow",
+        "role": "Wicketkeeper Batter"
+    },
+    {
+        "country": "England",
+        "player_name": "Harry Brook",
+        "role": "Batter"
+    },
+    {
+        "country": "England",
+        "player_name": "Ben Duckett",
+        "role": "Top order Batter"
+    },
+    {
+        "country": "England",
+        "player_name": "Phil Salt",
+        "role": "Wicketkeeper Batter"
+    },
+    {
+        "country": "England",
+        "player_name": "Moeen Ali",
+        "role": "Batting Allrounder"
+    },
+    {
+        "country": "England",
+        "player_name": "Sam Curran",
+        "role": "Allrounder"
+    },
+    {
+        "country": "England",
+        "player_name": "Will Jacks",
+        "role": "Batting Allrounder"
+    },
+    {
+        "country": "England",
+        "player_name": "Liam Livingstone",
+        "role": "Batting Allrounder"
+    },
+    {
+        "country": "England",
+        "player_name": "Jofra Archer",
+        "role": "Bowler"
+    },
+    {
+        "country": "England",
+        "player_name": "Tom Hartley",
+        "role": "Bowler"
+    },
+    {
+        "country": "England",
+        "player_name": "Chris Jordan",
+        "role": "Bowler"
+    },
+    {
+        "country": "England",
+        "player_name": "Adil Rashid",
+        "role": "Bowler"
+    },
+    {
+        "country": "England",
+        "player_name": "Reece Topley",
+        "role": "Bowler"
+    },
+    {
+        "country": "England",
+        "player_name": "Mark Wood",
+        "role": "Bowler"
+    },
+    {
+        "country": "India",
+        "player_name": "Rohit Sharma",
+        "role": "Top order Batter"
+    },
+    {
+        "country": "India",
+        "player_name": "Yashasvi Jaiswal",
+        "role": "Opening Batter"
+    },
+    {
+        "country": "India",
+        "player_name": "Virat Kohli",
+        "role": "Top order Batter"
+    },
+    {
+        "country": "India",
+        "player_name": "Rishabh Pant",
+        "role": "Wicketkeeper Batter"
+    },
+    {
+        "country": "India",
+        "player_name": "Sanju Samson",
+        "role": "Wicketkeeper Batter"
+    },
+    {
+        "country": "India",
+        "player_name": "Suryakumar Yadav",
+        "role": "Batter"
+    },
+    {
+        "country": "India",
+        "player_name": "Hardik Pandya",
+        "role": "Allrounder"
+    },
+    {
+        "country": "India",
+        "player_name": "Shivam Dube",
+        "role": "Allrounder"
+    },
+    {
+        "country": "India",
+        "player_name": "Ravindra Jadeja",
+        "role": "Allrounder"
+    },
+    {
+        "country": "India",
+        "player_name": "Axar Patel",
+        "role": "Bowling Allrounder"
+    },
+    {
+        "country": "India",
+        "player_name": "Arshdeep Singh",
+        "role": "Bowler"
+    },
+    {
+        "country": "India",
+        "player_name": "Jasprit Bumrah",
+        "role": "Bowler"
+    },
+    {
+        "country": "India",
+        "player_name": "Yuzvendra Chahal",
+        "role": "Bowler"
+    },
+    {
+        "country": "India",
+        "player_name": "Kuldeep Yadav",
+        "role": "Bowler"
+    },
+    {
+        "country": "India",
+        "player_name": "Mohammed Siraj",
+        "role": "Bowler"
+    },
+    {
+        "country": "Ireland",
+        "player_name": "Ross Adair",
+        "role": "Top order Batter"
+    },
+    {
+        "country": "Ireland",
+        "player_name": "Andy Balbirnie",
+        "role": "Batter"
+    },
+    {
+        "country": "Ireland",
+        "player_name": "Neil Rock",
+        "role": "Wicketkeeper Batter"
+    },
+    {
+        "country": "Ireland",
+        "player_name": "Harry Tector",
+        "role": "Middle order Batter"
+    },
+    {
+        "country": "Ireland",
+        "player_name": "Lorcan Tucker",
+        "role": "Wicketkeeper Batter"
+    },
+    {
+        "country": "Ireland",
+        "player_name": "Paul Stirling",
+        "role": "Batting Allrounder"
+    },
+    {
+        "country": "Ireland",
+        "player_name": "Mark Adair",
+        "role": "Bowling Allrounder"
+    },
+    {
+        "country": "Ireland",
+        "player_name": "Curtis Campher",
+        "role": "Allrounder"
+    },
+    {
+        "country": "Ireland",
+        "player_name": "Gareth Delany",
+        "role": "Batting Allrounder"
+    },
+    {
+        "country": "Ireland",
+        "player_name": "George Dockrell",
+        "role": "Allrounder"
+    },
+    {
+        "country": "Ireland",
+        "player_name": "Graham Hume",
+        "role": "Bowler"
+    },
+    {
+        "country": "Ireland",
+        "player_name": "Josh Little",
+        "role": "Bowler"
+    },
+    {
+        "country": "Ireland",
+        "player_name": "Barry McCarthy",
+        "role": "Bowler"
+    },
+    {
+        "country": "Ireland",
+        "player_name": "Ben White",
+        "role": "Bowler"
+    },
+    {
+        "country": "Ireland",
+        "player_name": "Craig Young",
+        "role": "Bowler"
+    },
+    {
+        "country": "Namibia",
+        "player_name": "Nikolaas Davin",
+        "role": "Batter"
+    },
+    {
+        "country": "Namibia",
+        "player_name": "Zane Green",
+        "role": "Wicketkeeper Batter"
+    },
+    {
+        "country": "Namibia",
+        "player_name": "JP Kotze",
+        "role": "Batter"
+    },
+    {
+        "country": "Namibia",
+        "player_name": "Malan Kruger",
+        "role": "Batter"
+    },
+    {
+        "country": "Namibia",
+        "player_name": "Dylan Leicher",
+        "role": "Middle order Batter"
+    },
+    {
+        "country": "Namibia",
+        "player_name": "Gerhard Erasmus",
+        "role": "Allrounder"
+    },
+    {
+        "country": "Namibia",
+        "player_name": "JJ Smit",
+        "role": "Bowling Allrounder"
+    },
+    {
+        "country": "Namibia",
+        "player_name": "Jan Frylinck",
+        "role": "Allrounder"
+    },
+    {
+        "country": "Namibia",
+        "player_name": "Michael van Lingen",
+        "role": "Bowling Allrounder"
+    },
+    {
+        "country": "Namibia",
+        "player_name": "David Wiese",
+        "role": "Allrounder"
+    },
+    {
+        "country": "Namibia",
+        "player_name": "Peter-Daniel Blignaut",
+        "role": "Bowler"
+    },
+    {
+        "country": "Namibia",
+        "player_name": "Jack Brassell",
+        "role": "Bowler"
+    },
+    {
+        "country": "Namibia",
+        "player_name": "Tangeni Lungameni",
+        "role": "Bowler"
+    },
+    {
+        "country": "Namibia",
+        "player_name": "Bernard Scholtz",
+        "role": "Bowler"
+    },
+    {
+        "country": "Namibia",
+        "player_name": "Ben Shikongo",
+        "role": "Bowler"
+    },
+    {
+        "country": "Namibia",
+        "player_name": "Ruben Trumpelmann",
+        "role": "Bowler"
+    },
+    {
+        "country": "Nepal",
+        "player_name": "Aasif Sheikh",
+        "role": "Wicketkeeper Batter"
+    },
+    {
+        "country": "Nepal",
+        "player_name": "Dipendra Singh Airee",
+        "role": "Middle order Batter"
+    },
+    {
+        "country": "Nepal",
+        "player_name": "Kushal Bhurtel",
+        "role": "Opening Batter"
+    },
+    {
+        "country": "Nepal",
+        "player_name": "Sundeep Jora",
+        "role": "Middle order Batter"
+    },
+    {
+        "country": "Nepal",
+        "player_name": "Rohit Paudel",
+        "role": "Batting Allrounder"
+    },
+    {
+        "country": "Nepal",
+        "player_name": "Karan KC",
+        "role": "Allrounder"
+    },
+    {
+        "country": "Nepal",
+        "player_name": "Kushal Malla",
+        "role": "Batting Allrounder"
+    },
+    {
+        "country": "Nepal",
+        "player_name": "Anil Sah",
+        "role": "Batting Allrounder"
+    },
+    {
+        "country": "Nepal",
+        "player_name": "Sompal Kami",
+        "role": "Bowling Allrounder"
+    },
+    {
+        "country": "Nepal",
+        "player_name": "Pratis GC",
+        "role": "Bowling Allrounder"
+    },
+    {
+        "country": "Nepal",
+        "player_name": "Kamal Airee",
+        "role": "Bowler"
+    },
+    {
+        "country": "Nepal",
+        "player_name": "Abinash Bohara",
+        "role": "Bowler"
+    },
+    {
+        "country": "Nepal",
+        "player_name": "Sagar Dhakal",
+        "role": "Bowler"
+    },
+    {
+        "country": "Nepal",
+        "player_name": "Gulsan Jha",
+        "role": "Bowler"
+    },
+    {
+        "country": "Nepal",
+        "player_name": "Sandeep Lamichhane",
+        "role": "Bowler"
+    },
+    {
+        "country": "Nepal",
+        "player_name": "Lalit Rajbanshi",
+        "role": "Bowler"
+    },
+    {
+        "country": "Netherlands",
+        "player_name": "Scott Edwards",
+        "role": "Wicketkeeper Batter"
+    },
+    {
+        "country": "Netherlands",
+        "player_name": "Wesley Barresi",
+        "role": "Batter"
+    },
+    {
+        "country": "Netherlands",
+        "player_name": "Michael Levitt",
+        "role": "Top order Batter"
+    },
+    {
+        "country": "Netherlands",
+        "player_name": "Max O'Dowd",
+        "role": "Opening Batter"
+    },
+    {
+        "country": "Netherlands",
+        "player_name": "Vikramjit Singh",
+        "role": "Opening Batter"
+    },
+    {
+        "country": "Netherlands",
+        "player_name": "Bas de Leede",
+        "role": "Batting Allrounder"
+    },
+    {
+        "country": "Netherlands",
+        "player_name": "Sybrand Engelbrecht",
+        "role": "Allrounder"
+    },
+    {
+        "country": "Netherlands",
+        "player_name": "Teja Nidamanuru",
+        "role": "Allrounder"
+    },
+    {
+        "country": "Netherlands",
+        "player_name": "Tim Pringle",
+        "role": "Allrounder"
+    },
+    {
+        "country": "Netherlands",
+        "player_name": "Saqib Zulfiqar",
+        "role": "Bowling Allrounder"
+    },
+    {
+        "country": "Netherlands",
+        "player_name": "Aryan Dutt",
+        "role": "Bowler"
+    },
+    {
+        "country": "Netherlands",
+        "player_name": "Vivian Kingma",
+        "role": "Bowler"
+    },
+    {
+        "country": "Netherlands",
+        "player_name": "Kyle Klein",
+        "role": "Bowler"
+    },
+    {
+        "country": "Netherlands",
+        "player_name": "Logan van Beek",
+        "role": "Bowler"
+    },
+    {
+        "country": "Netherlands",
+        "player_name": "Paul van Meekeren",
+        "role": "Bowler"
+    },
+    {
+        "country": "Netherlands",
+        "player_name": "Daniel Doram",
+        "role": "Bowler"
+    },
+    {
+        "country": "Netherlands",
+        "player_name": "Fred Klaassen",
+        "role": "Bowler"
+    },
+    {
+        "country": "New Zealand",
+        "player_name": "Kane Williamson",
+        "role": "Top order Batter"
+    },
+    {
+        "country": "New Zealand",
+        "player_name": "Finn Allen",
+        "role": "Top order Batter"
+    },
+    {
+        "country": "New Zealand",
+        "player_name": "Devon Conway",
+        "role": "Wicketkeeper Batter"
+    },
+    {
+        "country": "New Zealand",
+        "player_name": "Michael Bracewell",
+        "role": "Batting Allrounder"
+    },
+    {
+        "country": "New Zealand",
+        "player_name": "Mark Chapman",
+        "role": "Allrounder"
+    },
+    {
+        "country": "New Zealand",
+        "player_name": "Daryl Mitchell",
+        "role": "Batting Allrounder"
+    },
+    {
+        "country": "New Zealand",
+        "player_name": "James Neesham",
+        "role": "Batting Allrounder"
+    },
+    {
+        "country": "New Zealand",
+        "player_name": "Glenn Phillips",
+        "role": "Allrounder"
+    },
+    {
+        "country": "New Zealand",
+        "player_name": "Rachin Ravindra",
+        "role": "Batting Allrounder"
+    },
+    {
+        "country": "New Zealand",
+        "player_name": "Mitchell Santner",
+        "role": "Bowling Allrounder"
+    },
+    {
+        "country": "New Zealand",
+        "player_name": "Trent Boult",
+        "role": "Bowler"
+    },
+    {
+        "country": "New Zealand",
+        "player_name": "Lockie Ferguson",
+        "role": "Bowler"
+    },
+    {
+        "country": "New Zealand",
+        "player_name": "Matt Henry",
+        "role": "Bowler"
+    },
+    {
+        "country": "New Zealand",
+        "player_name": "Ish Sodhi",
+        "role": "Bowler"
+    },
+    {
+        "country": "New Zealand",
+        "player_name": "Tim Southee",
+        "role": "Bowler"
+    },
+    {
+        "country": "Oman",
+        "player_name": "Aqib Ilyas",
+        "role": "Top order Batter"
+    },
+    {
+        "country": "Oman",
+        "player_name": "Pratik Athavale",
+        "role": "Wicketkeeper Batter"
+    },
+    {
+        "country": "Oman",
+        "player_name": "Khalid Kail",
+        "role": "Middle order Batter"
+    },
+    {
+        "country": "Oman",
+        "player_name": "Mehran Khan",
+        "role": "Batter"
+    },
+    {
+        "country": "Oman",
+        "player_name": "Naseem Khushi",
+        "role": "Wicketkeeper"
+    },
+    {
+        "country": "Oman",
+        "player_name": "Kashyap Prajapati",
+        "role": "Top order Batter"
+    },
+    {
+        "country": "Oman",
+        "player_name": "Shoaib Khan",
+        "role": "Batter"
+    },
+    {
+        "country": "Oman",
+        "player_name": "Zeeshan Maqsood",
+        "role": "Opening Batter"
+    },
+    {
+        "country": "Oman",
+        "player_name": "Ayaan Khan",
+        "role": "Allrounder"
+    },
+    {
+        "country": "Oman",
+        "player_name": "Mohammad Nadeem",
+        "role": "Allrounder"
+    },
+    {
+        "country": "Oman",
+        "player_name": "Bilal Khan",
+        "role": "Bowler"
+    },
+    {
+        "country": "Oman",
+        "player_name": "Fayyaz Butt",
+        "role": "Bowler"
+    },
+    {
+        "country": "Oman",
+        "player_name": "Kaleemullah",
+        "role": "Bowler"
+    },
+    {
+        "country": "Oman",
+        "player_name": "Rafiullah",
+        "role": "Bowler"
+    },
+    {
+        "country": "Oman",
+        "player_name": "Shakeel Ahmed",
+        "role": "Bowler"
+    },
+    {
+        "country": "Pakistan",
+        "player_name": "Babar Azam",
+        "role": "Batter"
+    },
+    {
+        "country": "Pakistan",
+        "player_name": "Azam Khan",
+        "role": "Wicketkeeper Batter"
+    },
+    {
+        "country": "Pakistan",
+        "player_name": "Fakhar Zaman",
+        "role": "Opening Batter"
+    },
+    {
+        "country": "Pakistan",
+        "player_name": "Iftikhar Ahmed",
+        "role": "Middle order Batter"
+    },
+    {
+        "country": "Pakistan",
+        "player_name": "Mohammad Rizwan",
+        "role": "Wicketkeeper Batter"
+    },
+    {
+        "country": "Pakistan",
+        "player_name": "Saim Ayub",
+        "role": "Top order Batter"
+    },
+    {
+        "country": "Pakistan",
+        "player_name": "Usman Khan",
+        "role": "Top order Batter"
+    },
+    {
+        "country": "Pakistan",
+        "player_name": "Imad Wasim",
+        "role": "Allrounder"
+    },
+    {
+        "country": "Pakistan",
+        "player_name": "Shadab Khan",
+        "role": "Allrounder"
+    },
+    {
+        "country": "Pakistan",
+        "player_name": "Abbas Afridi",
+        "role": "Bowler"
+    },
+    {
+        "country": "Pakistan",
+        "player_name": "Abrar Ahmed",
+        "role": "Bowler"
+    },
+    {
+        "country": "Pakistan",
+        "player_name": "Haris Rauf",
+        "role": "Bowler"
+    },
+    {
+        "country": "Pakistan",
+        "player_name": "Mohammad Amir",
+        "role": "Bowler"
+    },
+    {
+        "country": "Pakistan",
+        "player_name": "Naseem Shah",
+        "role": "Bowler"
+    },
+    {
+        "country": "Pakistan",
+        "player_name": "Shaheen Shah Afridi",
+        "role": "Bowler"
+    },
+    {
+        "country": "Papua New Guinea",
+        "player_name": "Assad Vala",
+        "role": "Batter"
+    },
+    {
+        "country": "Papua New Guinea",
+        "player_name": "Sese Bau",
+        "role": "Middle order Batter"
+    },
+    {
+        "country": "Papua New Guinea",
+        "player_name": "Kiplin Doriga",
+        "role": "Wicketkeeper Batter"
+    },
+    {
+        "country": "Papua New Guinea",
+        "player_name": "Hiri Hiri",
+        "role": "Middle order Batter"
+    },
+    {
+        "country": "Papua New Guinea",
+        "player_name": "Lega Siaka",
+        "role": "Opening Batter"
+    },
+    {
+        "country": "Papua New Guinea",
+        "player_name": "Tony Ura",
+        "role": "Opening Batter"
+    },
+    {
+        "country": "Papua New Guinea",
+        "player_name": "Hila Vare",
+        "role": "Batter"
+    },
+    {
+        "country": "Papua New Guinea",
+        "player_name": "Charles Amini",
+        "role": "Allrounder"
+    },
+    {
+        "country": "Papua New Guinea",
+        "player_name": "Jack Gardner",
+        "role": "Bowler"
+    },
+    {
+        "country": "Papua New Guinea",
+        "player_name": "Semo Kamea",
+        "role": "Bowler"
+    },
+    {
+        "country": "Papua New Guinea",
+        "player_name": "John Kariko",
+        "role": "Bowler"
+    },
+    {
+        "country": "Papua New Guinea",
+        "player_name": "Kabua Morea",
+        "role": "Bowler"
+    },
+    {
+        "country": "Papua New Guinea",
+        "player_name": "Alei Nao",
+        "role": "Bowler"
+    },
+    {
+        "country": "Papua New Guinea",
+        "player_name": "Chad Soper",
+        "role": "Bowler"
+    },
+    {
+        "country": "Papua New Guinea",
+        "player_name": "Norman Vanua",
+        "role": "Bowler"
+    },
+    {
+        "country": "Scotland",
+        "player_name": "Richie Berrington",
+        "role": "Top order Batter"
+    },
+    {
+        "country": "Scotland",
+        "player_name": "Matthew Cross",
+        "role": "Wicketkeeper Batter"
+    },
+    {
+        "country": "Scotland",
+        "player_name": "Ollie Hairs",
+        "role": "Opening Batter"
+    },
+    {
+        "country": "Scotland",
+        "player_name": "Michael Jones",
+        "role": "Top order Batter"
+    },
+    {
+        "country": "Scotland",
+        "player_name": "George Munsey",
+        "role": "Opening Batter"
+    },
+    {
+        "country": "Scotland",
+        "player_name": "Charlie Tear",
+        "role": "Wicketkeeper Batter"
+    },
+    {
+        "country": "Scotland",
+        "player_name": "Michael Leask",
+        "role": "Allrounder"
+    },
+    {
+        "country": "Scotland",
+        "player_name": "Brandon McMullen",
+        "role": "Batting Allrounder"
+    },
+    {
+        "country": "Scotland",
+        "player_name": "Brad Currie",
+        "role": "Bowler"
+    },
+    {
+        "country": "Scotland",
+        "player_name": "Chris Greaves",
+        "role": "Bowler"
+    },
+    {
+        "country": "Scotland",
+        "player_name": "Jack Jarvis",
+        "role": "Bowler"
+    },
+    {
+        "country": "Scotland",
+        "player_name": "Safyaan Sharif",
+        "role": "Bowler"
+    },
+    {
+        "country": "Scotland",
+        "player_name": "Chris Sole",
+        "role": "Bowler"
+    },
+    {
+        "country": "Scotland",
+        "player_name": "Mark Watt",
+        "role": "Bowler"
+    },
+    {
+        "country": "Scotland",
+        "player_name": "Brad Wheal",
+        "role": "Bowler"
+    },
+    {
+        "country": "South Africa",
+        "player_name": "Aiden Markram",
+        "role": "Opening Batter"
+    },
+    {
+        "country": "South Africa",
+        "player_name": "Quinton de Kock",
+        "role": "Wicketkeeper Batter"
+    },
+    {
+        "country": "South Africa",
+        "player_name": "Reeza Hendricks",
+        "role": "Opening Batter"
+    },
+    {
+        "country": "South Africa",
+        "player_name": "Heinrich Klaasen",
+        "role": "Wicketkeeper Batter"
+    },
+    {
+        "country": "South Africa",
+        "player_name": "David Miller",
+        "role": "Middle order Batter"
+    },
+    {
+        "country": "South Africa",
+        "player_name": "Ryan Rickelton",
+        "role": "Wicketkeeper Batter"
+    },
+    {
+        "country": "South Africa",
+        "player_name": "Tristan Stubbs",
+        "role": "Batter"
+    },
+    {
+        "country": "South Africa",
+        "player_name": "Marco Jansen",
+        "role": "Bowling Allrounder"
+    },
+    {
+        "country": "South Africa",
+        "player_name": "Ottneil Baartman",
+        "role": "Bowler"
+    },
+    {
+        "country": "South Africa",
+        "player_name": "Gerald Coetzee",
+        "role": "Bowler"
+    },
+    {
+        "country": "South Africa",
+        "player_name": "Bjorn Fortuin",
+        "role": "Bowler"
+    },
+    {
+        "country": "South Africa",
+        "player_name": "Keshav Maharaj",
+        "role": "Bowler"
+    },
+    {
+        "country": "South Africa",
+        "player_name": "Anrich Nortje",
+        "role": "Bowler"
+    },
+    {
+        "country": "South Africa",
+        "player_name": "Kagiso Rabada",
+        "role": "Bowler"
+    },
+    {
+        "country": "South Africa",
+        "player_name": "Tabraiz Shamsi",
+        "role": "Bowler"
+    },
+    {
+        "country": "Sri Lanka",
+        "player_name": "Kusal Mendis",
+        "role": "Wicketkeeper Batter"
+    },
+    {
+        "country": "Sri Lanka",
+        "player_name": "Pathum Nissanka",
+        "role": "Top order Batter"
+    },
+    {
+        "country": "Sri Lanka",
+        "player_name": "Sadeera Samarawickrama",
+        "role": "Wicketkeeper Batter"
+    },
+    {
+        "country": "Sri Lanka",
+        "player_name": "Wanindu Hasaranga",
+        "role": "Allrounder"
+    },
+    {
+        "country": "Sri Lanka",
+        "player_name": "Charith Asalanka",
+        "role": "Batting Allrounder"
+    },
+    {
+        "country": "Sri Lanka",
+        "player_name": "Dhananjaya de Silva",
+        "role": "Allrounder"
+    },
+    {
+        "country": "Sri Lanka",
+        "player_name": "Angelo Mathews",
+        "role": "Allrounder"
+    },
+    {
+        "country": "Sri Lanka",
+        "player_name": "Kamindu Mendis",
+        "role": "Allrounder"
+    },
+    {
+        "country": "Sri Lanka",
+        "player_name": "Dasun Shanaka",
+        "role": "Allrounder"
+    },
+    {
+        "country": "Sri Lanka",
+        "player_name": "Dushmantha Chameera",
+        "role": "Bowler"
+    },
+    {
+        "country": "Sri Lanka",
+        "player_name": "Dilshan Madushanka",
+        "role": "Bowler"
+    },
+    {
+        "country": "Sri Lanka",
+        "player_name": "Matheesha Pathirana",
+        "role": "Bowler"
+    },
+    {
+        "country": "Sri Lanka",
+        "player_name": "Maheesh Theekshana",
+        "role": "Bowler"
+    },
+    {
+        "country": "Sri Lanka",
+        "player_name": "Nuwan Thushara",
+        "role": "Bowler"
+    },
+    {
+        "country": "Sri Lanka",
+        "player_name": "Dunith Wellalage",
+        "role": "Bowler"
+    },
+    {
+        "country": "Uganda",
+        "player_name": "Fred Achelam",
+        "role": "Wicketkeeper Batter"
+    },
+    {
+        "country": "Uganda",
+        "player_name": "Roger Mukasa",
+        "role": "Batter"
+    },
+    {
+        "country": "Uganda",
+        "player_name": "Robinson Obuya",
+        "role": "Batter"
+    },
+    {
+        "country": "Uganda",
+        "player_name": "Ronak Patel",
+        "role": "Batter"
+    },
+    {
+        "country": "Uganda",
+        "player_name": "Simon Ssesazi",
+        "role": "Wicketkeeper Batter"
+    },
+    {
+        "country": "Uganda",
+        "player_name": "Riazat Ali Shah",
+        "role": "Batting Allrounder"
+    },
+    {
+        "country": "Uganda",
+        "player_name": "Dinesh Nakrani",
+        "role": "Allrounder"
+    },
+    {
+        "country": "Uganda",
+        "player_name": "Frank Nsubuga",
+        "role": "Allrounder"
+    },
+    {
+        "country": "Uganda",
+        "player_name": "Alpesh Ramjani",
+        "role": "Allrounder"
+    },
+    {
+        "country": "Uganda",
+        "player_name": "Kenneth Waiswa",
+        "role": "Allrounder"
+    },
+    {
+        "country": "Uganda",
+        "player_name": "Brian Masaba",
+        "role": "Bowler"
+    },
+    {
+        "country": "Uganda",
+        "player_name": "Bilal Hassan",
+        "role": "Bowler"
+    },
+    {
+        "country": "Uganda",
+        "player_name": "Cosmas Kyewuta",
+        "role": "Bowler"
+    },
+    {
+        "country": "Uganda",
+        "player_name": "Juma Miyagi",
+        "role": "Bowler"
+    },
+    {
+        "country": "Uganda",
+        "player_name": "Henry Ssenyondo",
+        "role": "Bowler"
+    },
+    {
+        "country": "United States of America",
+        "player_name": "Monank Patel",
+        "role": "Wicketkeeper Batter"
+    },
+    {
+        "country": "United States of America",
+        "player_name": "Aaron Jones",
+        "role": "Top order Batter"
+    },
+    {
+        "country": "United States of America",
+        "player_name": "Andries Gous",
+        "role": "Wicketkeeper"
+    },
+    {
+        "country": "United States of America",
+        "player_name": "Nitish Kumar",
+        "role": "Top order Batter"
+    },
+    {
+        "country": "United States of America",
+        "player_name": "Shayan Jahangir",
+        "role": "Batter"
+    },
+    {
+        "country": "United States of America",
+        "player_name": "Steven Taylor",
+        "role": "Opening Batter"
+    },
+    {
+        "country": "United States of America",
+        "player_name": "Corey Anderson",
+        "role": "Batting Allrounder"
+    },
+    {
+        "country": "United States of America",
+        "player_name": "Harmeet Singh",
+        "role": "Bowling Allrounder"
+    },
+    {
+        "country": "United States of America",
+        "player_name": "Milind Kumar",
+        "role": "Allrounder"
+    },
+    {
+        "country": "United States of America",
+        "player_name": "Nisarg Patel",
+        "role": "Allrounder"
+    },
+    {
+        "country": "United States of America",
+        "player_name": "Shadley van Schalkwyk",
+        "role": "Allrounder"
+    },
+    {
+        "country": "United States of America",
+        "player_name": "Ali Khan",
+        "role": "Bowler"
+    },
+    {
+        "country": "United States of America",
+        "player_name": "Jasdeep Singh",
+        "role": "Bowler"
+    },
+    {
+        "country": "United States of America",
+        "player_name": "Nosthush Kenjige",
+        "role": "Bowler"
+    },
+    {
+        "country": "United States of America",
+        "player_name": "Saurabh Netravalkar",
+        "role": "Bowler"
+    },
+    {
+        "country": "West Indies",
+        "player_name": "Rovman Powell",
+        "role": "Middle order Batter"
+    },
+    {
+        "country": "West Indies",
+        "player_name": "Johnson Charles",
+        "role": "Wicketkeeper Batter"
+    },
+    {
+        "country": "West Indies",
+        "player_name": "Shimron Hetmyer",
+        "role": "Top order Batter"
+    },
+    {
+        "country": "West Indies",
+        "player_name": "Shai Hope",
+        "role": "Wicketkeeper Batter"
+    },
+    {
+        "country": "West Indies",
+        "player_name": "Nicholas Pooran",
+        "role": "Wicketkeeper Batter"
+    },
+    {
+        "country": "West Indies",
+        "player_name": "Sherfane Rutherford",
+        "role": "Middle order Batter"
+    },
+    {
+        "country": "West Indies",
+        "player_name": "Brandon King",
+        "role": "Top order Batter"
+    },
+    {
+        "country": "West Indies",
+        "player_name": "Roston Chase",
+        "role": "Allrounder"
+    },
+    {
+        "country": "West Indies",
+        "player_name": "Kyle Mayers",
+        "role": "Batting Allrounder"
+    },
+    {
+        "country": "West Indies",
+        "player_name": "Andre Russell",
+        "role": "Allrounder"
+    },
+    {
+        "country": "West Indies",
+        "player_name": "Romario Shepherd",
+        "role": "Bowling Allrounder"
+    },
+    {
+        "country": "West Indies",
+        "player_name": "Jason Holder",
+        "role": "Bowling Allrounder"
+    },
+    {
+        "country": "West Indies",
+        "player_name": "Alzarri Joseph",
+        "role": "Bowler"
+    },
+    {
+        "country": "West Indies",
+        "player_name": "Akeal Hosein",
+        "role": "Bowler"
+    },
+    {
+        "country": "West Indies",
+        "player_name": "Shamar Joseph",
+        "role": "Bowler"
+    },
+    {
+        "country": "West Indies",
+        "player_name": "Obed McCoy",
+        "role": "Bowler"
+    },
+    {
+        "country": "West Indies",
+        "player_name": "Gudakesh Motie",
+        "role": "Bowler"
+    }
+]
