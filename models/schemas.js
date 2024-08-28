@@ -39,6 +39,43 @@ const SelectedPlayersSchema = new schema({
 }) 
 const selectedPlayers = mongoose.model("SelectedPlayers", SelectedPlayersSchema, "selectedPlayers")
 
-const mySchema = {"Tournament": tournaments, "CountryImage":countryImage, "CountryPlayers":countryPlayers, "SelectedPlayers":selectedPlayers}
+const SelectedTeamsSchema = new schema({
+    event_name: String,
+    teams: [{
+        name:String,
+        image: String,
+    }],
+    
+}) 
+const selectedTeams = mongoose.model("SelectedTeams", SelectedTeamsSchema, "selectedTeams")
+
+const AddPlayerSchema = new schema({
+    event: String,
+    team: String,
+    name: String,
+}) 
+const addPlayers = mongoose.model("AddPlayers", AddPlayerSchema, "AddPlayers")
+
+
+const AddPlayerDetailsSchema = new schema({
+    country_1: String,
+    country_2: String,
+    team: String,
+    name: String,
+    // name: {
+    //     type: String,
+    //     required: true,
+    //     unique: true, // Add unique constraint for name
+    //     index: true // Create an index for faster lookups
+    //   },
+    runs:Number,
+    wickets:Number,
+}) 
+const addPlayerDetails = mongoose.model("AddPlayerDetails", AddPlayerDetailsSchema, "AddPlayerDetails")
+
+
+
+const mySchema = {"Tournament": tournaments, "CountryImage":countryImage, "CountryPlayers":countryPlayers, 
+    "SelectedPlayers":selectedPlayers, "SelectedTeams": selectedTeams, "AddPlayers":addPlayers, "AddPlayerDetails":addPlayerDetails}
 
 module.exports = mySchema

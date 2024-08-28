@@ -1,0 +1,96 @@
+[
+  {
+    "event_name": "ICC T20 World Cup",
+    "teams": [
+      {
+        "name": "Afghanistan",
+        "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/381800/381892.png"
+      },
+      {
+        "name": "Australia",
+        "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/340400/340493.png"
+      },
+      {
+        "name": "Bangladesh",
+        "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/341400/341456.png"
+      },
+      {
+        "name": "Canada",
+        "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/381800/381855.png"
+      },
+      {
+        "name": "England",
+        "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/381800/381894.png"
+      },
+      {
+        "name": "India",
+        "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/381800/381895.png"
+      },
+      {
+        "name": "Ireland",
+        "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/313100/313149.logo.png"
+      },
+      {
+        "name": "Namibia",
+        "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/381800/381857.png"
+      },
+      {
+        "name": "Nepal",
+        "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/319900/319958.png"
+      },
+      {
+        "name": "Netherlands",
+        "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/381800/381893.png"
+      },
+      {
+        "name": "New Zealand",
+        "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/340500/340505.png"
+      },
+      {
+        "name": "Oman",
+        "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/381800/381858.png"
+      },
+      {
+        "name": "Pakistan",
+        "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/381800/381891.png"
+      },
+      {
+        "name": "Papua New Guinea",
+        "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/383200/383206.png"
+      },
+      {
+        "name": "Scotland",
+        "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/313100/313150.logo.png"
+      },
+      {
+        "name": "South Africa",
+        "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/382700/382733.png"
+      },
+      {
+        "name": "Sri Lanka",
+        "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/340000/340047.png"
+      },
+      {
+        "name": "Uganda",
+        "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/381800/381856.png"
+      },
+      {
+        "name": "United States of America",
+        "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/381800/381853.png"
+      },
+      {
+        "name": "West Indies",
+        "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/317600/317615.png"
+      }
+    ]
+  },
+  {
+    "event_name": "IPL",
+    "teams": [
+      {
+        "name": "Chennai",
+        "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_160,q_50/lsci/db/PICTURES/CMS/381800/381892.png"
+      }
+    ]
+  }
+]
