@@ -187,7 +187,7 @@ router.get("/cricket/icc_world_cup/:country_1/vs/:country_2/getOneplayer/:id", a
     const playerToUpdate = filteredPlayers.find(
       (player) => player._id.toString() === id
     );
-
+    console.log(playerToUpdate)
     if (!playerToUpdate) {
       return res.status(404).json({ error: 'Player not found' });
     }
@@ -202,28 +202,24 @@ router.get("/cricket/icc_world_cup/:country_1/vs/:country_2/getOneplayer/:id", a
 
 
 // Add player details
-router.post("/cricket/icc_world_cup/:country_1/vs/:country_2/add_player_detail/:id", async (req, res) => {
+router.post("/cricket/icc_world_cup/:country_1/vs/:country_2/add_player_detail", async (req, res) => {
   const playerDetail = req.body;
 
   try {
+    console.log("Adding player:", playerDetail);
     const newPlayer = await schemas.AddPlayerDetails.create(playerDetail);
+    console.log("Player added successfully:", newPlayer);
     res.status(201).send({ data: newPlayer, msg: "added successfully" });
   } catch (error) {
     console.error("Error adding player:", error);
     if (error.name === 'ValidationError') {
-      // Handle validation errors
-      if (error.errors.name && error.errors.name.kind === 'unique') {
-        return res.status(409).json({ error: 'Player already exists' });
-      }
+      // Handle validation errors (optional)
       return res.status(400).json({ error: error.message });
     } else if (error.name === 'MongoError') {
-      // Handle MongoDB-specific errors
-      if (error.code === 11000) { // Duplicate key error
-        return res.status(409).json({ error: 'Player already exists' });
-      }
+      // Mongoose-specific errors (unlikely in this case)
       return res.status(500).json({ error: 'Internal server error' });
     } else {
-      // Handle other errors
+      // Handle other errors (optional)
       return res.status(500).json({ error: 'Internal server error' });
     }
   }
@@ -234,7 +230,7 @@ const checkPlayerDataDetails = async (country_1, country_2) => {
     const filteredData = await schemas.AddPlayerDetails.find({
       country_1,
       country_2,
-     
+
     });
     return filteredData;
   } catch (error) {
@@ -260,7 +256,7 @@ const filterUpdatingPlayerData = async (country_1, country_2) => {
     const filteredData = await schemas.AddPlayerDetails.find({
       country_1,
       country_2,
-      
+
     });
     return filteredData
   } catch (error) {
@@ -293,11 +289,74 @@ router.get("/cricket/icc_world_cup/:country_1/vs/:country_2/addPlayerDetails/get
 router.put("/cricket/icc_world_cup/:country_1/vs/:country_2/updateplayer/:id", (req, res) => {
   const id = req.params.id;
   schemas.AddPlayerDetails.findByIdAndUpdate(id, req.body, { new: true })
-      .then(() => res.status(200).json({ msg: "player Updated successfully" }))
-      .catch(err => {
-          res.status(500).send(err.message);
-          console.log(err);
-      })
+    .then(() => res.status(200).json({ msg: "player Updated successfully" }))
+    .catch(err => {
+      res.status(500).send(err.message);
+      console.log(err);
+    })
 })
+
+
+async function getPlayerPerformance() {
+    try {
+      const results = await schemas.AddPlayerDetails.aggregate([
+        {
+          $group: {
+            _id: "$name", // Use _id to group by name
+            totalRuns: { $sum: "$runs" },
+            totalWickets: { $sum: "$wickets" },
+            team: { $first: "$team" }, // Use $first to get the first team value for each group
+          },
+        },
+      ]);
+      return results;
+    } catch (error) {
+      console.error(error);
+      return null;
+    }
+  }
+  
+
+// get players for player performance
+router.get("/cricket/performance", (req, res) => {
+  getPlayerPerformance()
+    .then((data) => {
+      res.status(201).json(data);
+    })
+    .catch((err) => {
+      res.status(500).send(err.message);
+      console.log(err);
+    })
+
+})
+
+
+// async function getPlayerPerformance() {
+//   try {
+//     const results = await AddPlayerDetails.aggregate([
+//       {
+//         $group: {
+//           _id: "$name",
+//           totalRuns: { $sum: "$runs" },
+//           totalWickets: { $sum: "$wickets" },
+//         },
+//       },
+//     ]);
+//     return results;
+//   } catch (error) {
+//     console.error(error);
+//     return null;
+//   }
+// }
+
+// // Usage
+// getPlayerPerformance()
+//   .then((data) => {
+//     console.log(data); // Array of objects with player name, totalRuns, totalWickets
+//   })
+//   .catch((error) => {
+//     console.error(error);
+//   });
+
 
 module.exports = router
